@@ -13,13 +13,13 @@ module.exports = {
 
     let message = [
         {
-            content: `Your cool message 1`
+            content: `configure me in events/randomMessage.js`
         },
         {
-            content: `your cool message 2`
+            content: `configure me in events/randomMessage.js`
         },
         {
-            content: `your cool message 3`
+            content: `configure me in events/randomMessage.js`
         }
     ]
 
