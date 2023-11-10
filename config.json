@@ -1,0 +1,6 @@
+{
+    "token": "Bot token",
+    "mongodbUrl": "mongodburl",
+    "clientId": "clientId",
+    "prefix": ">"
+}
