@@ -29,7 +29,7 @@ module.exports = {
             return formattedNumber;
           }
 
-        let humans = formatNumber(12123115);
+        let humans = formatNumber(msg.guild.memberCount);
         let humansWithoutBotsUnfomated = (msg.guild.memberCount-1);
         let humansWithoutBotsformated = formatNumber(humansWithoutBotsUnfomated)
 
